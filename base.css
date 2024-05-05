@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
   background-image: url('wheat_field.jpg'); /* Изображение поля с колосьями */
-  background-repeat: no-repeat;
+  background-repeat: no-repeat; 
   background-size: cover;
   background-position: center;
 }
